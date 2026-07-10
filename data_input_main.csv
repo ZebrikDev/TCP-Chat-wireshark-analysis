@@ -1,0 +1,7 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,HTTP,client_browser,web_server,GET /index.html,0.015
+2,HTTP,web_server,client_browser,HTTP/1.1 200 OK,0.032
+3,HTTP,client_browser,web_server,GET /style.css,0.050
+4,HTTP,web_server,client_browser,HTTP/1.1 200 OK,0.070
+5,HTTP,client_browser,web_server,GET /script.js,0.090
+6,HTTP,web_server,client_browser,HTTP/1.1 200 OK,0.114
