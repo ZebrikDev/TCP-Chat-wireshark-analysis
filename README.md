@@ -2,16 +2,41 @@
 
 A data communication project that demonstrates TCP/IP traffic analysis with Wireshark and a simple TCP chat application built with Python sockets.
 
+---
+
 ## Project Overview
 
 This project was built as part of a Data Communication / Computer Networks course.
 
 The project includes two main parts:
 
-1. **HTTP traffic analysis** using a CSV file, Jupyter Notebook, and Wireshark.
-2. **TCP chat application** using Python sockets and threads.
+1. HTTP traffic analysis using a CSV file, Jupyter Notebook, and Wireshark.
+2. TCP chat application using Python sockets and threads.
 
-The goal is to understand how application-layer data is encapsulated into TCP and IP, and how real network traffic can be captured and analyzed using Wireshark.
+---
+
+## Technologies Used
+
+- Python
+- TCP/IP
+- Socket Programming
+- Threading
+- Jupyter Notebook
+- Wireshark
+- CSV
+
+---
+
+## Skills Demonstrated
+
+- Client-Server Architecture
+- TCP Socket Programming
+- Multi-threaded Programming
+- Network Traffic Analysis
+- HTTP Protocol Analysis
+- Wireshark Packet Inspection
+- TCP/IP Communication
+- Data Encapsulation
 
 ---
 
